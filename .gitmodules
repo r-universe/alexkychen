@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "assignPOP"]
+	path = assignPOP
+	url = https://github.com/alexkychen/assignpop
+	shallow = true
+	registered = true
